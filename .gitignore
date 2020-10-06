@@ -1,0 +1,9 @@
+collectedData.csv
+scoreSeparatedData.csv
+*.json
+env/
+.ipynb_checkpoints/
+chrome-data/
+__pycache__/
+data/
+config.py
